@@ -1,0 +1,26 @@
+{
+  "name": "namaste-react-assignments-and-notes",
+  "version": "1.0.0",
+  "description": "This is about assignments and notes for react based on namaste react",
+  "main": "App.js",
+  "scripts": {
+    "start": "npm start",
+    "dev": "npm run dev",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItWithMeet/namaste-react-assignments-and-notes.git"
+  },
+  "author": "Meet Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItWithMeet/namaste-react-assignments-and-notes/issues"
+  },
+  "homepage": "https://github.com/ItWithMeet/namaste-react-assignments-and-notes#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.1"
+  }
+}
